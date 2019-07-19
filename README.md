@@ -1,2 +1,1 @@
 # study-plan
-study plan
