@@ -14,6 +14,10 @@
 
 - typescript
 
+- angular
+
+- ionic
+
 
 
 # node.js
